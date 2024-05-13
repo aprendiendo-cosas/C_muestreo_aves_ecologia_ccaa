@@ -10,7 +10,7 @@
 >   
 >
 
-![portada](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/main/imagenes/birdwatching.jpeg)
+![portada](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/2023_2024/imagenes/birdwatching.jpeg)
 
 
 
@@ -34,20 +34,20 @@
 ## Metodología
 Aplicaremos dos métodos diferentes (transectos y estaciones de escucha) en dos sitios diferentes: un bosque de ribera a unos 700 m de altitud y un enebral de alta montaña a unos 2400 m de altitud. 
 
-![sitios](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/main/imagenes/sitios.png)
+![sitios](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/2023_2024/imagenes/sitios.png)
 
 ### Censado con estaciones de escucha
 Se establecarán puntos de escucha estratégicos en ambas altitudes. En cada punto se registra el tiempo (15 min), la temperatura y otras condiciones climáticas relevantes. La unidad que mide aquí el esfuerzo de muestreo es el tiempo.
 
 Durante 15 minutos, se registran todas las especies de aves escuchadas en cada estación. Utilizaremos la aplicación Merlin para identificar especies. Esta aplicación permite "capturar" el sonido de las aves a una distancia de unos 50 metros.
 
-![escucha](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/main/imagenes/merlin.png)
+![escucha](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/2023_2024/imagenes/merlin.png)
 
 ### Censado mediante recorridos a pie
 Diseñaremos una ruta a pie representativa de cada altitud. La distancia será de 1 kilometro, aquí el esfuerzo de muestro es la distancia. Durante el recorrido, registraremos todas las especies de aves vistas u escuchadas.
 Anotaremos la ubicación exacta de cada avistamiento utilizando el GPS o el móvil y la distancia exacta recorrida.
 
-![transecto](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/main/imagenes/transecto.png)
+![transecto](https://github.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/raw/2023_2024/imagenes/transecto.png)
 
 ### Procesamiento y análisis de datos
 
